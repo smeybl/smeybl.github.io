@@ -1,0 +1,27 @@
+.header {
+	text-emphasis: center;
+	font-size: 20px;
+line-height: 1.5;
+margin: 60px auto;
+}
+.section{
+	padding: 10px;
+}
+.header span {
+display: block;
+}
+.container,   {
+	border:  2px solid red;
+} 
+.form {
+	border: 5px solid #27279d;
+	padding: 35px 20px;
+
+}
+.form-header{
+	font-size: 20px;
+	font-weight: 900;
+}
+.form-btn{
+margin: 10px auto;
+}
